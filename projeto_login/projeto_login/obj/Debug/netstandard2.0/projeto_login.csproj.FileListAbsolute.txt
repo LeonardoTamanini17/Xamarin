@@ -1,0 +1,17 @@
+C:\Projeto Login\projeto_login\projeto_login\projeto_login\bin\Debug\netstandard2.0\projeto_login.deps.json
+C:\Projeto Login\projeto_login\projeto_login\projeto_login\bin\Debug\netstandard2.0\projeto_login.dll
+C:\Projeto Login\projeto_login\projeto_login\projeto_login\bin\Debug\netstandard2.0\ref\projeto_login.dll
+C:\Projeto Login\projeto_login\projeto_login\projeto_login\bin\Debug\netstandard2.0\projeto_login.pdb
+C:\Projeto Login\projeto_login\projeto_login\projeto_login\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Projeto Login\projeto_login\projeto_login\projeto_login\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Projeto Login\projeto_login\projeto_login\projeto_login\obj\Debug\netstandard2.0\Views\Cadastro.xaml.g.cs
+C:\Projeto Login\projeto_login\projeto_login\projeto_login\obj\Debug\netstandard2.0\Views\ListUsuarios.xaml.g.cs
+C:\Projeto Login\projeto_login\projeto_login\projeto_login\obj\Debug\netstandard2.0\Views\login.xaml.g.cs
+C:\Projeto Login\projeto_login\projeto_login\projeto_login\obj\Debug\netstandard2.0\projeto_login.AssemblyInfoInputs.cache
+C:\Projeto Login\projeto_login\projeto_login\projeto_login\obj\Debug\netstandard2.0\projeto_login.AssemblyInfo.cs
+C:\Projeto Login\projeto_login\projeto_login\projeto_login\obj\Debug\netstandard2.0\projeto_login.csproj.CoreCompileInputs.cache
+C:\Projeto Login\projeto_login\projeto_login\projeto_login\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Projeto Login\projeto_login\projeto_login\projeto_login\obj\Debug\netstandard2.0\projeto_login.dll
+C:\Projeto Login\projeto_login\projeto_login\projeto_login\obj\Debug\netstandard2.0\ref\projeto_login.dll
+C:\Projeto Login\projeto_login\projeto_login\projeto_login\obj\Debug\netstandard2.0\projeto_login.pdb
+C:\Projeto Login\projeto_login\projeto_login\projeto_login\obj\Debug\netstandard2.0\projeto_login.csprojAssemblyReference.cache

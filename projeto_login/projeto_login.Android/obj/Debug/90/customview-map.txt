@@ -1,0 +1,65 @@
+@string/appbar_scrolling_view_behavior;C:\Projeto Login\projeto_login\projeto_login\projeto_login.Android\obj\Debug\90\lp\42\jl\res\layout\flyoutcontent.xml
+@string/appbar_scrolling_view_behavior;C:\Projeto Login\projeto_login\projeto_login\projeto_login.Android\obj\Debug\90\lp\42\jl\res\layout\rootlayout.xml
+adaptive-icon;obj\Debug\90\res\mipmap-anydpi-v26\icon.xml
+adaptive-icon;obj\Debug\90\res\mipmap-anydpi-v26\icon_round.xml
+alpha;C:\Projeto Login\projeto_login\projeto_login\projeto_login.Android\obj\Debug\90\lp\42\jl\res\anim\enterfromleft.xml
+alpha;C:\Projeto Login\projeto_login\projeto_login\projeto_login.Android\obj\Debug\90\lp\42\jl\res\anim\exittoleft.xml
+android.support.design.widget.AppBarLayout;C:\Projeto Login\projeto_login\projeto_login\projeto_login.Android\obj\Debug\90\lp\42\jl\res\layout\flyoutcontent.xml
+android.support.design.widget.AppBarLayout;C:\Projeto Login\projeto_login\projeto_login\projeto_login.Android\obj\Debug\90\lp\42\jl\res\layout\rootlayout.xml
+android.support.design.widget.AppBarLayout;C:\Projeto Login\projeto_login\projeto_login\projeto_login.Android\obj\Debug\90\lp\42\jl\res\layout\shellcontent.xml
+android.support.design.widget.BottomNavigationView;C:\Projeto Login\projeto_login\projeto_login\projeto_login.Android\obj\Debug\90\lp\42\jl\res\layout\bottomtablayout.xml
+android.support.design.widget.CoordinatorLayout;C:\Projeto Login\projeto_login\projeto_login\projeto_login.Android\obj\Debug\90\lp\42\jl\res\layout\flyoutcontent.xml
+android.support.design.widget.CoordinatorLayout;C:\Projeto Login\projeto_login\projeto_login\projeto_login.Android\obj\Debug\90\lp\42\jl\res\layout\rootlayout.xml
+android.support.design.widget.CoordinatorLayout;C:\Projeto Login\projeto_login\projeto_login\projeto_login.Android\obj\Debug\90\lp\42\jl\res\layout\shellcontent.xml
+android.support.design.widget.TabLayout;C:\Projeto Login\projeto_login\projeto_login\projeto_login.Android\obj\Debug\90\lp\42\jl\res\layout\rootlayout.xml
+android.support.design.widget.TabLayout;obj\Debug\90\res\layout\tabbar.xml
+android.support.v7.widget.RecyclerView;C:\Projeto Login\projeto_login\projeto_login\projeto_login.Android\obj\Debug\90\lp\42\jl\res\layout\flyoutcontent.xml
+android.support.v7.widget.Toolbar;C:\Projeto Login\projeto_login\projeto_login\projeto_login.Android\obj\Debug\90\lp\42\jl\res\layout\rootlayout.xml
+android.support.v7.widget.Toolbar;C:\Projeto Login\projeto_login\projeto_login\projeto_login.Android\obj\Debug\90\lp\42\jl\res\layout\shellcontent.xml
+android.support.v7.widget.Toolbar;obj\Debug\90\res\layout\toolbar.xml
+androidhud.ProgressWheel;C:\Projeto Login\projeto_login\projeto_login\projeto_login.Android\obj\Debug\90\lp\1\jl\res\layout\loadingprogress.xml
+attr;C:\Projeto Login\projeto_login\projeto_login\projeto_login.Android\obj\Debug\90\lp\1\jl\res\values\attrs.xml
+background;obj\Debug\90\res\mipmap-anydpi-v26\icon.xml
+background;obj\Debug\90\res\mipmap-anydpi-v26\icon_round.xml
+cache-path;C:\Projeto Login\projeto_login\projeto_login\projeto_login.Android\obj\Debug\90\lp\41\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+color;obj\Debug\90\res\values\colors.xml
+corners;C:\Projeto Login\projeto_login\projeto_login\projeto_login.Android\obj\Debug\90\lp\1\jl\res\drawable\roundedbg.xml
+corners;C:\Projeto Login\projeto_login\projeto_login\projeto_login.Android\obj\Debug\90\lp\1\jl\res\drawable\roundedbgdark.xml
+declare-styleable;C:\Projeto Login\projeto_login\projeto_login\projeto_login.Android\obj\Debug\90\lp\1\jl\res\values\attrs.xml
+external-cache-path;C:\Projeto Login\projeto_login\projeto_login\projeto_login.Android\obj\Debug\90\lp\41\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+external-path;C:\Projeto Login\projeto_login\projeto_login\projeto_login.Android\obj\Debug\90\lp\41\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+foreground;obj\Debug\90\res\mipmap-anydpi-v26\icon.xml
+foreground;obj\Debug\90\res\mipmap-anydpi-v26\icon_round.xml
+FrameLayout;C:\Projeto Login\projeto_login\projeto_login\projeto_login.Android\obj\Debug\90\lp\42\jl\res\layout\bottomtablayout.xml
+gradient;C:\Projeto Login\projeto_login\projeto_login\projeto_login.Android\obj\Debug\90\lp\1\jl\res\drawable\roundedbg.xml
+gradient;C:\Projeto Login\projeto_login\projeto_login\projeto_login.Android\obj\Debug\90\lp\1\jl\res\drawable\roundedbgdark.xml
+ImageView;C:\Projeto Login\projeto_login\projeto_login\projeto_login.Android\obj\Debug\90\lp\1\jl\res\layout\loadingimage.xml
+item;C:\Projeto Login\projeto_login\projeto_login\projeto_login.Android\obj\Debug\90\lp\42\jl\res\values\styles.xml
+LinearLayout;C:\Projeto Login\projeto_login\projeto_login\projeto_login.Android\obj\Debug\90\lp\42\jl\res\layout\bottomtablayout.xml
+paths;C:\Projeto Login\projeto_login\projeto_login\projeto_login.Android\obj\Debug\90\lp\41\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+ProgressBar;C:\Projeto Login\projeto_login\projeto_login\projeto_login.Android\obj\Debug\90\lp\1\jl\res\layout\loading.xml
+RelativeLayout;C:\Projeto Login\projeto_login\projeto_login\projeto_login.Android\obj\Debug\90\lp\1\jl\res\layout\loading.xml
+RelativeLayout;C:\Projeto Login\projeto_login\projeto_login\projeto_login.Android\obj\Debug\90\lp\1\jl\res\layout\loadingimage.xml
+RelativeLayout;C:\Projeto Login\projeto_login\projeto_login\projeto_login.Android\obj\Debug\90\lp\1\jl\res\layout\loadingprogress.xml
+resources;C:\Projeto Login\projeto_login\projeto_login\projeto_login.Android\obj\Debug\90\lp\1\jl\res\values\attrs.xml
+resources;C:\Projeto Login\projeto_login\projeto_login\projeto_login.Android\obj\Debug\90\lp\1\jl\res\values\strings.xml
+resources;C:\Projeto Login\projeto_login\projeto_login\projeto_login.Android\obj\Debug\90\lp\42\jl\res\values\styles.xml
+resources;obj\Debug\90\res\values\colors.xml
+resources;obj\Debug\90\res\values\styles.xml
+set;C:\Projeto Login\projeto_login\projeto_login\projeto_login.Android\obj\Debug\90\lp\42\jl\res\anim\enterfromleft.xml
+set;C:\Projeto Login\projeto_login\projeto_login\projeto_login.Android\obj\Debug\90\lp\42\jl\res\anim\enterfromright.xml
+set;C:\Projeto Login\projeto_login\projeto_login\projeto_login.Android\obj\Debug\90\lp\42\jl\res\anim\exittoleft.xml
+set;C:\Projeto Login\projeto_login\projeto_login\projeto_login.Android\obj\Debug\90\lp\42\jl\res\anim\exittoright.xml
+shape;C:\Projeto Login\projeto_login\projeto_login\projeto_login.Android\obj\Debug\90\lp\1\jl\res\drawable\roundedbg.xml
+shape;C:\Projeto Login\projeto_login\projeto_login\projeto_login.Android\obj\Debug\90\lp\1\jl\res\drawable\roundedbgdark.xml
+string;C:\Projeto Login\projeto_login\projeto_login\projeto_login.Android\obj\Debug\90\lp\1\jl\res\values\strings.xml
+style;C:\Projeto Login\projeto_login\projeto_login\projeto_login.Android\obj\Debug\90\lp\42\jl\res\values\styles.xml
+style;obj\Debug\90\res\values\styles.xml
+TextView;C:\Projeto Login\projeto_login\projeto_login\projeto_login.Android\obj\Debug\90\lp\1\jl\res\layout\loading.xml
+TextView;C:\Projeto Login\projeto_login\projeto_login\projeto_login.Android\obj\Debug\90\lp\1\jl\res\layout\loadingimage.xml
+TextView;C:\Projeto Login\projeto_login\projeto_login\projeto_login.Android\obj\Debug\90\lp\1\jl\res\layout\loadingprogress.xml
+translate;C:\Projeto Login\projeto_login\projeto_login\projeto_login.Android\obj\Debug\90\lp\42\jl\res\anim\enterfromleft.xml
+translate;C:\Projeto Login\projeto_login\projeto_login\projeto_login.Android\obj\Debug\90\lp\42\jl\res\anim\enterfromright.xml
+translate;C:\Projeto Login\projeto_login\projeto_login\projeto_login.Android\obj\Debug\90\lp\42\jl\res\anim\exittoleft.xml
+translate;C:\Projeto Login\projeto_login\projeto_login\projeto_login.Android\obj\Debug\90\lp\42\jl\res\anim\exittoright.xml
+xamarin.forms.platform.android.appcompat.FormsViewPager;C:\Projeto Login\projeto_login\projeto_login\projeto_login.Android\obj\Debug\90\lp\42\jl\res\layout\rootlayout.xml

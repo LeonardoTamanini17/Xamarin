@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="projeto_login.Views.Cadastro">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem
+            Command="{Binding SalvarCommand}"
+            IconImageSource="salvar.png"
+            Text="Salvar" />
+    </ContentPage.ToolbarItems>
+    <ContentPage.Content>
+        <StackLayout>
+            <Grid Grid.Row="1" Grid.RowSpan="3">
+                <ScrollView VerticalOptions="FillAndExpand">
+                    <StackLayout
+                            x:Name="SLLoginContainer"
+                            Padding="10"
+                            VerticalOptions="Start">
+                        <Label Text="Nome" />
+                        <Entry
+                                Keyboard="Plain"
+                                MaxLength="50"
+                                Text="{Binding Nome}" />
+                        <Label Text="Telefone" />
+                        <Entry
+                                Keyboard="Telephone"
+                                MaxLength="11"
+                                Text="{Binding Telefone}" />
+                        <Label Text="Email" />
+                        <Entry
+                                Keyboard="Email"
+                                MaxLength="50"
+                                Text="{Binding Email}" />
+                        <Label Text="Senha" />
+                        <Entry
+                                IsPassword="True"
+                                MaxLength="12"
+                                Text="{Binding Senha}" />
+                        <Label Text="Data Nascimento"/>
+                        <DatePicker x:Name="toDate"
+                        Format="dd/MM/yyyy"
+                        Date="{Binding Aniversario}"/>
+                    </StackLayout>
+                </ScrollView>
+            </Grid>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

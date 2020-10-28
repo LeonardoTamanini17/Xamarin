@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="projeto_login.Views.ListUsuarios">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem
+            Command="{Binding AtualizarCommand}"
+            IconImageSource="sincronizar.png"
+            Text="Novo" />
+        <ToolbarItem
+            Command="{Binding CriarCommand}"
+            IconImageSource="mais.png"
+            Text="Novo" />
+    </ContentPage.ToolbarItems>
+    <ContentPage.Content>
+        <StackLayout>
+            <ListView
+                HasUnevenRows="True"
+                ItemsSource="{Binding Usuarios}"
+                SelectedItem="{Binding SelectedItemUsuario, Mode=TwoWay}">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <StackLayout>
+                                <Frame BackgroundColor="White" BorderColor="DarkGray">
+                                    <StackLayout
+                                        HorizontalOptions="FillAndExpand"
+                                        Orientation="Horizontal"
+                                        Spacing="-10"
+                                        VerticalOptions="FillAndExpand">
+                                        <StackLayout HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+                                            <StackLayout Orientation="Horizontal">
+                                                <Label FontSize="15" Text="Nome:" />
+                                                <Label FontSize="15" Text="{Binding Nome}" />
+                                            </StackLayout>
+                                            <StackLayout Orientation="Horizontal">
+                                                <Label FontSize="15" Text="Telefone:" />
+                                                <Label FontSize="15" Text="{Binding Telefone}" />
+                                            </StackLayout>
+                                            <StackLayout Orientation="Horizontal">
+                                                <Label FontSize="15" Text="Email:" />
+                                                <Label FontSize="15" Text="{Binding Email}" />
+                                            </StackLayout>
+                                            <StackLayout Orientation="Horizontal">
+                                                <Label FontSize="15" Text="Dt Aniversário:" />
+                                                <Label FontSize="15" Text="{Binding DataAniversario}"/>
+                                            </StackLayout>
+                                        </StackLayout>
+                                        <StackLayout VerticalOptions="Center">
+                                            <Image
+                                                HorizontalOptions="Center"
+                                                Source="SetaEntrar.PNG"
+                                                VerticalOptions="Center" />
+                                        </StackLayout>
+                                    </StackLayout>
+                                </Frame>
+                            </StackLayout>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

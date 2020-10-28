@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="projeto_login.Views.login">
+    <ContentPage.Content>
+        <StackLayout>
+            <Grid Grid.Row="1" Grid.RowSpan="3">
+                <ScrollView VerticalOptions="FillAndExpand">
+                    <StackLayout
+                            x:Name="SLLoginContainer"
+                            Padding="10"
+                            VerticalOptions="Start">
+                        <Label Text="Email" />
+                        <Entry
+                                Keyboard="Email"
+                                MaxLength="50"
+                                Text="{Binding Email}" />
+                        <Label Text="Senha" />
+                        <Entry
+                                IsPassword="True"
+                                MaxLength="12"
+                                Text="{Binding Senha}" />
+                        <Button
+                                Margin="0,20,0,0"
+                                Command="{Binding LoginCommand}"
+                                Text="Entrar"
+                                VerticalOptions="Center" />
+                    </StackLayout>
+                </ScrollView>
+            </Grid>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
